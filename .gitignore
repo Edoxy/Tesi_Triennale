@@ -1,0 +1,13 @@
+/.DS_Store
+/.ipynb_checkpoints
+/.venv
+/.vscode
+/FischerFaces.tex
+/FischerFaces_files
+/GridSearch_Kernel.html
+/Gridsearch_FDA_KPCA.html
+/Oversampling_Kernel_Gridsearch.html
+/Tesi_Triennale.code-workspace
+/images
+/test_grid.tex
+/test_grid_serach.html
